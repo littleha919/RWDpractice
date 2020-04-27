@@ -76,13 +76,9 @@ nav a{
 nav a:hover{
     color: rgb(228, 158, 228);
 }
-
-
-
-
-
-
-
+.aboutus{
+    text-align: center;
+}
 .item-group .item-service{
     width: 100%;
     /* max-width: 1400px; */
